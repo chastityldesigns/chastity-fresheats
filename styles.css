@@ -1,0 +1,68 @@
+.container {
+   text-align: right;
+   padding: 10px;
+   background-position: top right;
+   
+}
+nav li {
+    margin-left: 70px;
+}
+header {
+    background: #84b252;
+}
+.logo {
+    float: left;
+}
+
+.howitworks {
+    background: url(images/image.jpg)top left no-repeat border-box;
+    padding: 5em 0;
+    background-size: cover;
+    background-color: white;
+    text-align: center;
+
+}
+
+/* #howitworks h1{
+    background-color: white;
+   
+
+}
+#howitworks p{
+    background-color: white;
+    margin-top: 20px;
+} */
+
+.plan {
+    text-align: center;
+}
+.top-image img{
+   display: block;
+   margin: auto;
+   margin-bottom: 5px;
+   width: 80%;
+
+}
+
+body {
+    background-color: #B0D785;
+ 
+}
+.background2 {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border: 20px;
+    background-size: cover;
+}
+li {
+    display: inline;
+}
+
+.footer p{
+    font-size: 12px;
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}
